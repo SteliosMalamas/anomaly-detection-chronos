@@ -1,0 +1,4 @@
+dataset/processed/benign.csv filter=lfs diff=lfs merge=lfs -text
+dataset/test/Tuesday-WorkingHours.pcap_ISCX.csv filter=lfs diff=lfs merge=lfs -text
+dataset/test/Wednesday-workingHours.pcap_ISCX.csv filter=lfs diff=lfs merge=lfs -text
+dataset/training/Monday-WorkingHours.pcap_ISCX.csv filter=lfs diff=lfs merge=lfs -text
